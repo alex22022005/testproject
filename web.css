@@ -8,6 +8,12 @@ body
     background-attachment: fixed;
 
 }
+
+.dd
+{
+    z-index: 1000;
+    
+}
 .ii{
     
    z-index: -1;
@@ -40,4 +46,15 @@ footer
     padding: 10px;
     
     width: 100%;
+}
+.head1
+{
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    background-color: black;
+    border-radius: 50%;
+    width: 500px;
+    height: 40px;
+    
 }
