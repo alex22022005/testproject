@@ -1,0 +1,49 @@
+body
+{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+
+}
+
+.dd
+{
+    z-index: 1000;
+    
+}
+.ii{
+    
+   z-index: -1;
+   position: absolute;
+   top: 0%;
+   left: 0%;
+}
+
+.head1
+{
+    
+}
+
+.product1
+{
+    font-size: large;
+
+}
+
+.product2
+{
+    font-size: large;
+}
+
+footer
+{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    
+    width: 100%;
+}
